@@ -1,3 +1,5 @@
+#Name : Pranav Amreliya
+#Enrollment : 92600584045
 #Capacities Of the Two Jugs
 
 CAP_A = 4
