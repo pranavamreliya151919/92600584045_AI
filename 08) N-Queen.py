@@ -1,3 +1,5 @@
+#Name : Pranav Amreliya
+#Enrollment : 92600584045
 #No two queens can be in the same row.
 #No two queens can be in the same column.
 #No two queens can be in the same diagonal.
