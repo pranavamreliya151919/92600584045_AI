@@ -1,3 +1,5 @@
+#Name : Pranav Amreliya
+#Enrollment : 92600584045
 #Two Player Game - Tic-Tac-Toe
 #Using Heuristic Function
 
